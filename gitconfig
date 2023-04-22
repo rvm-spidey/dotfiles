@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rishi.monohur15@gmail.com
+	name = rishi monohur
